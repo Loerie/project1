@@ -1,1 +1,5 @@
 this is my first test file test
+
+Check out these other Github projects:
+https://github.com/coding-in-the-wild/3d-print-price-calculator
+https://github.com/MatterHackers/MatterControl
